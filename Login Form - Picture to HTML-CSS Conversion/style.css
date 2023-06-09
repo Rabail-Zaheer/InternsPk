@@ -1,0 +1,77 @@
+body {
+  background-color: #5d9ed9;
+  font-family: "Open Sans", "San Serif";
+}
+
+.container {
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 170px;
+  text-align: center;
+}
+
+#header .logo .fa-user-circle {
+  font-size: 60px;
+  color: white;
+}
+
+#header h1 {
+  font-size: 30px;
+  color: white;
+  margin: 5px;
+}
+
+#loginForm .formFields {
+  background-color: white;
+  border-radius: 10px;
+}
+.formFields input {
+  width: 100%;
+  border: 0px;
+  margin: 0px;
+  padding: 0px;
+  outline: none;
+  font-size: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-indent: 20px;
+  border-radius: 10px;
+}
+
+#loginForm .formFields input[type="password"] {
+  border-top: 1px solid #ccc;
+  border-radius: 0px;
+  -webkit-border-bottom-right-radius: 6px;
+  -webkit-border-bottom-left-radius: 6px;
+  -moz-border-radius-bottomright: 6px;
+  -moz-border-radius-bottomleft: 6px;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+
+#loginForm input[type="submit"] {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #2186d4;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  margin-top: 10px;
+  padding: 14px 0px;
+  border-radius: 6px;
+}
+
+#loginForm input[type="submit"]:hover {
+  background-color: #084b85;
+  cursor: pointer;
+}
+#footer p {
+  color: white;
+  font-size: 15px;
+}
+#footer p a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
