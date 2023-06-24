@@ -1,0 +1,73 @@
+body {
+  box-sizing: border-box;
+}
+
+#logo {
+  width: 60px;
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 1.5rem;
+  margin-top: 10px;
+}
+
+.head-para {
+  font-size: 0.9rem;
+}
+
+.covidScreen {
+  display: block;
+  margin: auto;
+  width: 100px;
+}
+
+.my-btn {
+  text-align: center;
+  margin: auto;
+  display: block;
+  width: 100%;
+}
+
+.second-container {
+  margin-top: 20px;
+}
+.second-container img {
+  display: block;
+  margin: auto;
+  width: 60px;
+}
+.second-container p {
+  font-size: 0.9rem;
+}
+h2 {
+  font-size: 1.5rem;
+}
+h4 {
+  font-size: 1.1rem;
+}
+
+.main-img {
+  width: 300px;
+  display: block;
+  margin: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.second-btn {
+  margin-top: 10px;
+}
+button {
+  text-align: center;
+  margin: auto;
+  display: block;
+  width: 100%;
+}
+.info-para {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+a {
+  margin-top: 10px;
+}
